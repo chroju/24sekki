@@ -1,0 +1,6 @@
+name = "wrangler"
+main = "src/index.ts"
+compatibility_date = "2022-11-03"
+kv_namespaces = [
+  { binding = "SEKKI", id = "7ba0ef6a895048aabdf06096570c74e3", preview_id = "a686f936214440b585a34b9610861f5e" }
+]
